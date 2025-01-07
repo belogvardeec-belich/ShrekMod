@@ -1,0 +1,27 @@
+plans: [
+{
+unit: aaa128
+requirements: [
+graphite/15
+lead/20
+copper/50
+]
+time: 1500
+}
+{
+unit: dagger
+requirements: [
+silicon/10
+lead/10
+]
+time: 900
+}
+{
+unit: crawler
+requirements: [
+silicon/8
+coal/10
+]
+time: 600
+}
+]
